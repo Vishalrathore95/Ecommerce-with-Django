@@ -31,3 +31,39 @@ Apply Coupon Code: During checkout, users can apply any available coupon codes t
 Review Cart: Before proceeding to checkout, users can review the items in their shopping cart and make any necessary adjustments.
 Checkout: Complete the checkout process by providing shipping and payment information.
 Order Confirmation: After successful payment, users receive an order confirmation email with details of their purchase.
+Screenshots
+Here are some screenshots showcasing the user interface and features of our e-commerce website:
+
+![Screenshot 2024-04-11 133234](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/f57e55f8-5665-430a-9aca-54b793efd908)
+![Screenshot 2024-04-11 133253](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/4a0a9b49-2c20-4148-b3b6-2fed410c9567)
+![Screenshot 2024-04-11 133325](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/b33b3c25-2ffb-4cd3-8e7a-9f32a6394b58)
+![Screenshot 2024-04-11 133346](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/7fbccaee-b879-4393-8d06-1c7f8136cd6c)
+
+To run this project locally, follow these steps:![Screenshot 2024-04-11 133420](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/ed2f3da9-5bf9-4fbe-9072-ba853842546a)![Screenshot 2024-04-11 133444](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/e6251a30-2635-4292-a7cc-d17dbc5eb9d7)
+![Screenshot 2024-04-11 133503](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/985f8159-aee8-4b5a-9450-861b136900ca)
+![Screenshot 2024-04-11 133529](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/9547c1b8-cb4d-4327-a3b0-416d7a8490f3)
+
+
+
+Clone this repository to your local machine.
+
+Navigate to the project directory.
+
+Install the required dependencies.
+
+Set up the Django project.
+
+Create a superuser for accessing the admin panel.
+
+Start the Django development server.
+
+Access the website in your browser at http://localhost:8000.
+
+
+Contributors
+vishal Rathore
+License
+This project is licensed under the MIT License.
+
+Contact
+If you have any questions, suggestions, or feedback, please feel free to contact us at  vishalrathore203@gmail.com
