@@ -47,8 +47,10 @@ This is a comprehensive guide to the features and functionalities of our e-comme
 ![Screenshot 2024-04-11 133253](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/04e89469-6c30-4622-9bab-c2f24cbe7b48)
 ![Screenshot 2024-04-11 133420](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/4f389b00-b905-4488-aafb-02a623a367a3)
 ![Screenshot 2024-04-11 133444](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/5a258a9a-5020-406d-9efc-bd6d5bcdffc3)
-![Screenshot 2024-04-11 133503](https://github.com![Screenshot 2024-04-11 133529](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/624e3e55-97fc-462a-90f2-11f259fc8bda)
-/Vishalrathore95/Ecommerce-with-Django/assets/138272471/3fabfead-6f4a-41af-910e-30c9da722fbf)
+
+![Screenshot 2024-04-11 133503](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/c6e82d2f-cd46-469f-a10f-82e3d3524a93)
+
+![Screenshot 2024-04-11 133529](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/2fd93da2-12df-4de2-9c03-24d1ac9b7ba7)
 
 [Link to Screenshots](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471)
 
