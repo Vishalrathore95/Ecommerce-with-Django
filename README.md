@@ -53,7 +53,7 @@ This is a comprehensive guide to the features and functionalities of our e-comme
 ![Screenshot 2024-04-11 133529](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471/2fd93da2-12df-4de2-9c03-24d1ac9b7ba7)
 
 [Link to Screenshots](https://github.com/Vishalrathore95/Ecommerce-with-Django/assets/138272471)
-
+### Clone this https://github.com/Vishalrathore95/Ecommerce-with-Django
 ### Running Locally
 To run this project locally, follow these steps:
 1. Clone this repository to your local machine.
